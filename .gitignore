@@ -1,2 +1,11 @@
-env
-__pycache__
+env/
+.venv/
+venv/
+
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.sqlite3-journal
+
+.env
+.env.*
